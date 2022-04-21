@@ -4,7 +4,7 @@ This is the source code of the short, introductory book to jsPsych called _Intro
 
 ## Development
 
-The book is built using [`mdBook`][mdbook-repo], a part of the Rust project which builds books from markdown files. Make sure it is installed on your system, if you want to work on this project or derive from it. The [book on `mdBook`][mdbook-book] explains how to do so, and is a good resource to get to know the software in general.
+The book is built using [`mdBook`][mdbook-repo], a part of the Rust project which builds books from markdown files. Make sure it is installed on your system, if you want to work on this project or derive from it. The [book on `mdBook`][mdbook-book] explains how to do so, and is a good resource to get to know the software in general. To also create a PDF version of the book, [`mdbook-pdf`][mdbook-pdf-repo] is used, so that software should be installed as well.
 
 The (probably) most important commands druing development are
 
@@ -24,4 +24,5 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 [mdbook-repo]: https://github.com/rust-lang/mdBook
 [mdbook-book]: https://rust-lang.github.io/mdBook/index.html
+[mdbook-pdf-repo]: https://github.com/HollowMan6/mdbook-pdf
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
