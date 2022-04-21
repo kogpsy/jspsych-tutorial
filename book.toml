@@ -3,4 +3,8 @@ authors = ["Robin Bürkli"]
 language = "en"
 multilingual = false
 src = "src"
-title = "An introduction to jsPsych"
+title = "Introduction to jsPsych"
+
+[output.html]
+
+[output.pdf]
