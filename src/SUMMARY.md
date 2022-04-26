@@ -1,14 +1,13 @@
 # Summary
 
-[0.1 Preface](./preface.md)
+[Preface](./preface.md)
 
-[0.2 Why this book](./preface.md)
+# Getting ready
 
-# Getting started
+- [Prequisites and resources](./chapters/01_getting_ready/01_prequisites_and_resources.md)
 
-- [Choosing your environment]()
-- [Installing required software]()
-
-# Writing experiments
+# Programming an experiment
 
 # Publishing experiments online
+
+# Prospect and advanced usage of jsPsych

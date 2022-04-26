@@ -1,0 +1,3 @@
+# Prequisites and resources
+
+Although you might be able to follow along without any prior knowledge of programming and psychological experiments, it certainly doesn't harm to have at least a small foundation to build upon. Especially some understanding of basic JavaScript concepts could make the learning process a lot easier. A list of (external) resources to help you build that foundation will be provided in the next chapter. Depending on your type, you might want to consult them before you start working through the book, or jump right into it and ...
